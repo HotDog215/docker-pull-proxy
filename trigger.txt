@@ -1,1 +1,1 @@
-docker.io/library/mysql:8.0.36 registry.cn-hangzhou.aliyuncs.com/images-shang/mysql:8.0.36
+docker.io/library/postgres:bullseye registry.cn-hangzhou.aliyuncs.com/images-shang/postgres:bullseye
