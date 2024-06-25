@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+ghcr.io/songquanpeng/one-api:latest registry.cn-hangzhou.aliyuncs.com/images-shang/one-api:latest
