@@ -1,1 +1,1 @@
-ghcr.io/songquanpeng/one-api:latest registry.cn-hangzhou.aliyuncs.com/images-shang/one-api:latest
+docker.io/library/mysql:8.0.36 registry.cn-hangzhou.aliyuncs.com/images-shang/mysql:8.0.36
