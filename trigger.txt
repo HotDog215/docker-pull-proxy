@@ -1,1 +1,1 @@
-docker.io/rovee/python3.10:latest registry.cn-hangzhou.aliyuncs.com/images-shang/rovee/python3.10:latest
+docker.io/rovee/python3.10:latest registry.cn-hangzhou.aliyuncs.com/images-shang/python3.10:latest
