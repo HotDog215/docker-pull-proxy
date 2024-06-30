@@ -1,1 +1,1 @@
-docker.io/library/postgres:bullseye registry.cn-hangzhou.aliyuncs.com/images-shang/postgres:bullseye
+docker.io/robd003/python3.10 registry.cn-hangzhou.aliyuncs.com/images-shang/robd003/python3.10
