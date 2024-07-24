@@ -1,1 +1,1 @@
-docker.io/rovee/python3.10:latest registry.cn-hangzhou.aliyuncs.com/images-shang/python3.10:latest
+docker.io/chainguard/pytorch-cuda12:latest registry.cn-hangzhou.aliyuncs.com/images-shang/python3.10:latest
