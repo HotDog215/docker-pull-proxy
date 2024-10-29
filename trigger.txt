@@ -1,1 +1,1 @@
-docker.io/kubedb/elasticdump:canary registry.cn-hangzhou.aliyuncs.com/images-shang/elasticdump:canary
+docker.io/savatar101/omniparse:0.1 registry.cn-hangzhou.aliyuncs.com/images-shang/omniparse:0.1
