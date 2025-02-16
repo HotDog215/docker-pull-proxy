@@ -1,1 +1,1 @@
-docker.io/savatar101/omniparse:0.1 registry.cn-hangzhou.aliyuncs.com/images-shang/omniparse:0.1
+docker.io/qdrant/qdrant registry.cn-hangzhou.aliyuncs.com/images-shang/qdrant
