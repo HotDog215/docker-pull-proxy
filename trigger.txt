@@ -1,1 +1,1 @@
-docker.io/qdrant/neo4j:5.25.1 registry.cn-hangzhou.aliyuncs.com/images-shang/neo4j:5.25.1
+docker.io/neo4j:5.25.1 registry.cn-hangzhou.aliyuncs.com/images-shang/neo4j:5.25.1
