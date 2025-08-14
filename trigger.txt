@@ -1,1 +1,1 @@
-docker.io/neo4j:4.4.30 registry.cn-hangzhou.aliyuncs.com/images-shang/neo4j:4.4.30
+docker.io/neo4j:5.13.0-community registry.cn-hangzhou.aliyuncs.com/images-shang/neo4j:5.13.0-community
