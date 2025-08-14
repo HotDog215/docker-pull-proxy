@@ -1,1 +1,1 @@
-docker.io/qdrant/qdrant:v0.9.1 registry.cn-hangzhou.aliyuncs.com/images-shang/qdrant:v0.9.1 
+docker.io/neo4j:4.4.27 registry.cn-hangzhou.aliyuncs.com/images-shang/neo4j:4.4.27
