@@ -1,1 +1,1 @@
-docker.io/qdrant/qdrant:v1.13.2 registry.cn-hangzhou.aliyuncs.com/images-shang/qdrant:v1.13.2
+docker.io/chat2db/chat2db:latest registry.cn-hangzhou.aliyuncs.com/images-shang/chat2db:latest
