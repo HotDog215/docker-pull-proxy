@@ -1,1 +1,1 @@
-docker.io/qdrant registry.cn-hangzhou.aliyuncs.com/images-shang/qdrant
+docker.io/qdrant/qdrant:latest registry.cn-hangzhou.aliyuncs.com/images-shang/qdrant:1119
