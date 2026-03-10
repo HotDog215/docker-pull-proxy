@@ -1,1 +1,1 @@
-docker.io/node:22.22-slim registry.cn-hangzhou.aliyuncs.com/images-shang/node:22.22-slim
+docker.io/sha256:b41c15b715b5d6e3f305e9c6480a2396dd5f130b63add98d3d45760376f20823 registry.cn-hangzhou.aliyuncs.com/images-shang/node:22.22-slim-amd64
