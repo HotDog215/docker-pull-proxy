@@ -1,1 +1,1 @@
-docker.io/node:22.22-slim@sha256:b41c15b715b5d6e3f305e9c6480a2396dd5f130b63add98d3d45760376f20823 registry.cn-hangzhou.aliyuncs.com/images-shang/node:22.22-slim-amd64
+docker.io/node:22-bookworm@sha256:6d735b4d33660225271fda0a412802746658c3a1b975507b2803ed299609760a registry.cn-hangzhou.aliyuncs.com/images-shang/node:22-bookworm-amd64
